@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+target/
+*.class
+lab_hello
+lab_hello.exe
+*.o
